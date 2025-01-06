@@ -26,23 +26,27 @@ def text_to_speech(text):
 
 text_to_speech("Hello, welcome to the text-to-speech app!")
 
-Image Example
+## Image Example
+
 Here is a conceptual image of the app interface:
 
-App Interface Example
+![App Interface Example](https://via.placeholder.com/150)
 
-Task List
- Set up the project repository
- Initialize the app with a basic UI
- Integrate pyttsx3 for speech synthesis
- Implement voice selection feature
- Create an installer package
-How to Contribute
-Fork the repository.
-Clone your forked repository locally.
-Create your feature branch (git checkout -b feature/AmazingFeature).
-Commit your changes (git commit -m 'Add some AmazingFeature').
-Push to the branch (git push origin feature/AmazingFeature).
-Open a Pull Request.
-Contact
-For any inquiries about the project, reach out via email@example.com.
+## Task List
+
+- [x] Set up the project repository
+- [x] Initialize the app with a basic UI
+- [ ] Integrate `pyttsx3` for speech synthesis
+- [ ] Implement voice selection feature
+- [ ] Create an installer package
+
+## How to Contribute
+
+1. **Fork** the repository.
+2. **Clone** your forked repository locally.
+3. Create your **feature branch**: `git checkout -b feature/AmazingFeature`.
+4. **Commit** your changes: `git commit -m 'Add some AmazingFeature'`.
+5. **Push** to the branch: `git push origin feature/AmazingFeature`.
+6. Open a **Pull Request**.
+
+## Contact
