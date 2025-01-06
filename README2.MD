@@ -16,7 +16,7 @@ The Text-to-Speech App is designed to convert written text into spoken words usi
 
 Below is an example in Python using the `pyttsx3` library for text-to-speech conversion:
 
-```python
+`python
 import pyttsx3
 
 def text_to_speech(text):
@@ -24,7 +24,7 @@ def text_to_speech(text):
     engine.say(text)
     engine.runAndWait()
 
-text_to_speech("Hello, welcome to the text-to-speech app!")```
+text_to_speech("Hello, welcome to the text-to-speech app!")`
 
 ## Image Example
 
