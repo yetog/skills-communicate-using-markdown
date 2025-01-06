@@ -44,9 +44,18 @@ Here is a conceptual image of the app interface:
 
 1. **Fork** the repository.
 2. **Clone** your forked repository locally.
-3. Create your **feature branch**: `git checkout -b feature/AmazingFeature`.
+3. **Create** your feature branch: `git checkout -b feature/AmazingFeature`.
 4. **Commit** your changes: `git commit -m 'Add some AmazingFeature'`.
 5. **Push** to the branch: `git push origin feature/AmazingFeature`.
-6. Open a **Pull Request**.
+6. **Open**. a Pull Request
 
 ## Contact
+
+For any inquiries about the project, reach out via [email@example.com](mailto:email@example.com).
+
+---
+
+**Get help**: [Discussion board](https://github.com/orgs/skills/discussions/categories/communicate-using-markdown) &bull; [Status page](https://www.githubstatus.com/)
+
+&copy; 2023 Text-to-Speech App Contributors &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+For any inquiries about the project, reach out via [email@example.com](mailto:email@example.com).
